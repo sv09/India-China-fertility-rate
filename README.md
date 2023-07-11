@@ -1,9 +1,11 @@
 ### Fertility Rate by age groups of 5 in India and China in 2021
 
-##### D3 Version - D3 v7
+##### D3 Version: D3 v7
 
 - Responsive
 - Interactive
+
+##### Data Source: World Population Prospects
 
 ### About
 Here, we see the Age Specific Fertility Rate(ASFR) of India and China in 2021 by age groups of 5.
